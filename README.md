@@ -3,8 +3,6 @@
 ```
 
 ```
-
-
                                                                  root@tyris 
            .m.                                   ,_              --------- 
          ' ;M;                                ,;m;               OS : EndeavourOS Linux
