@@ -32,3 +32,5 @@
          `;;     MMmS;;; ;   ;      ;  MM;                 ;;;
 
 ```
+# TS
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="40" height="40" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" /></div>
